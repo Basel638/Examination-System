@@ -1,0 +1,14 @@
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\Examination System.AssemblyInfoInputs.cache
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\Examination System.AssemblyInfo.cs
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\Examination System.csproj.CoreCompileInputs.cache
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\bin\Debug\net7.0\Examination System.exe
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\bin\Debug\net7.0\Examination System.deps.json
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\bin\Debug\net7.0\Examination System.runtimeconfig.json
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\bin\Debug\net7.0\Examination System.dll
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\bin\Debug\net7.0\Examination System.pdb
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\Examination System.dll
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\refint\Examination System.dll
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\Examination System.pdb
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\Examination System.genruntimeconfig.cache
+D:\Route Course\OOP\Ahmed Nasr\Exam\Examination System Solution\Examination System\obj\Debug\net7.0\ref\Examination System.dll
